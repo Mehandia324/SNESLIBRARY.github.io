@@ -1,1 +1,1 @@
-# SNESLIBRARY.github.io
+# sneslibrary.github.io
